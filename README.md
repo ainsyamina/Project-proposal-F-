@@ -24,21 +24,21 @@ e) Features and functionalities of the proposed mobile application.
 - Login
 - Ice Cream Menu
 - Add to Cart page
-- Delivery Location page
 - Payment page
+- Delivery Location page
 - Logout button
 - Map API
 
 f) Properly define the screen navigation (routing) and components (presentational and
 container) implementation with a diagram.
 
-![WhatsApp Image 2021-12-29 at 8 45 20 PM](https://user-images.githubusercontent.com/55817657/147663721-0237b81a-2be4-4dfb-ad14-5f55b19c470b.jpeg)
+![WhatsApp Image 2021-12-29 at 7 58 28 PM](https://user-images.githubusercontent.com/55817657/147659901-0e3a8c91-1773-4cbf-8bf7-4a7a2bff3f3c.jpeg)
 
 Customer: use One-to-Many relationship. The relationship is between customer and order attributes. A customer can places many order for the ice cream
 
 Order: use One-to-Many relationship. The relationship is between order and product attributes. One ice cream product can be ordered many times as the customer wants.
 
-Product: use Many-to-One relationship. 
+Product: For the product, Many ice cream products are available and will reveal the price.
 
 g) A sequence diagram to represent the interaction of the proposed mobile application.
 1. Signup 
@@ -79,4 +79,4 @@ In the application, after the user selecting their favorite ice cream, users are
 
 Figure 5: Payment Sequence Diagram
 
-After users their delivery location, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
+After users add their ice cream into the cart, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
