@@ -28,7 +28,7 @@ e) Features and functionalities of the proposed mobile application.
 - Payment page
 - Delivery Location page
 - Logout button
-- Map API
+- Map APIIIII
 
 f) Properly define the screen navigation (routing) and components (presentational and
 container) implementation with a diagram.
