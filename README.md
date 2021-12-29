@@ -38,7 +38,7 @@ Customer: use One-to-Many relationship. The relationship is between customer and
 
 Order: use One-to-Many relationship. The relationship is between order and product attributes. One ice cream product can be ordered many times as the customer wants.
 
-Product: For the product, Many ice cream products are available and will reveal the price.
+Product: For the product, this is the last attribute that connected from order attribute.
 
 g) A sequence diagram to represent the interaction of the proposed mobile application.
 1. Signup 
