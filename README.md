@@ -10,7 +10,7 @@ b) Title: I Scream Ice Cream.
 
 c) Introduction
 
-For this group project we have chosen to create an ice cream delivery mobile application called ‘I Scream Ice Cream’. The mobile application platform 'I Scream Ice Cream' specializes in selling traditional Malaysian ice cream made and handled by IIUM students. The purpose of the project is to develop a mobile application for storing information about customer orders. This system can be used by the store owners and by the customers. The admin and user should be able to register and login to use this mobile application. There’s 5 flavours to choose from in the application. The ice cream can be ordered from wherever customers are, but only within IIUM. The order will be delivered once payment has been completed.
+For this group project we have chosen to create an ice cream delivery mobile application called ‘I Scream Ice Cream’. The mobile application platform 'I Scream Ice Cream' specializes in selling traditional Malaysian ice cream made and handled by IIUM students. The purpose of the project is to create an online platform for selling ice cream Malaysia for the IIUM community. The user should be able to register and login to use this mobile application. There’s 5 flavours to choose from in the application. The ice cream can be ordered from wherever customers are, but only within IIUM. The order will be delivered once payment has been completed.
 
 d) Objective of the proposed mobile application.
 
