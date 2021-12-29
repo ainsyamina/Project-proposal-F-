@@ -79,4 +79,4 @@ In the application, after the user selecting their favorite ice cream, users are
 
 Figure 5: Payment Sequence Diagram
 
-After users add their ice cream into the cart, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
+After users their delivery location, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
