@@ -67,18 +67,18 @@ Figure 3 : Add to Cart Sequence Diagram
 
 Users can select the ice cream flavor that they want and add their ice cream to cart. At the cart the user can select the quantity that they want then can go to the payment page. Users also can cancel their order in the add to cart page.
 
-4. Payment 
-
-![payment](https://user-images.githubusercontent.com/55817657/147641818-d96e0b01-55e8-4249-bfb6-43ffc8f9bcb7.png)
-
-Figure 4: Payment Sequence Diagram
-
-After users add their ice cream into the cart, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
-
-5. Delivery location 
+4. Delivery location 
 
 ![delivery location](https://user-images.githubusercontent.com/55817657/147641899-da1f2213-56b1-4f29-998d-76d0a1601ecf.png)
 
-Figure 5: Delivery location sequence diagram
+Figure 4: Delivery location sequence diagram
 
 In the application, after the user selecting their favorite ice cream, users are prompted to enter their location for delivery. The system will then request the user's location from the database, and the database will provide it to the system to display to the user.
+
+5. Payment 
+
+![payment](https://user-images.githubusercontent.com/55817657/147641818-d96e0b01-55e8-4249-bfb6-43ffc8f9bcb7.png)
+
+Figure 5: Payment Sequence Diagram
+
+After users add their ice cream into the cart, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
