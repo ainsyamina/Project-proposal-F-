@@ -24,8 +24,8 @@ e) Features and functionalities of the proposed mobile application.
 - Login
 - Ice Cream Menu
 - Add to Cart page
-- Payment page
 - Delivery Location page
+- Payment page
 - Logout button
 - Map API
 
@@ -38,7 +38,7 @@ Customer: use One-to-Many relationship. The relationship is between customer and
 
 Order: use One-to-Many relationship. The relationship is between order and product attributes. One ice cream product can be ordered many times as the customer wants.
 
-Product: use Many-to-One relationship. The relationship is between product and admin attributes. Many ice cream products are available and connect to one admin only to manage the product.
+Product: use Many-to-One relationship. 
 
 g) A sequence diagram to represent the interaction of the proposed mobile application.
 1. Signup 
