@@ -6,7 +6,7 @@ Group Member Details (Name & Matric No).
 4. Nurul Ain Syamina binti Noorafandi (1814584)
 5. Iman Nurzawani Binti Osman (1814246)
 
-b) Title: I Scream Ice Cream.
+b) Title: I Scream Ice Cream Mobile Application Store.
 
 c) Introduction
 
