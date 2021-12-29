@@ -30,4 +30,5 @@ e) Features and functionalities of the proposed mobile application.
 
 f) Properly define the screen navigation (routing) and components (presentational and
 container) implementation with a diagram.
+![database](https://user-images.githubusercontent.com/55817657/147641093-71f62358-3f6e-43f4-bce1-641268b92942.png)
 
