@@ -41,32 +41,42 @@ Product: use Many-to-One relationship. The relationship is between product and a
 Admin: will be able to see the ice cream order and manage the order from the customer.
 
 g) A sequence diagram to represent the interaction of the proposed mobile application.
-1. Signup -
+1. Signup 
+
 ![signup](https://user-images.githubusercontent.com/55817657/147641606-1455cb11-26ff-4da9-a2e1-fc73d3c8b60c.png)
+
 Figure 1: Sign Up Sequence Diagram
 
 The user clicks the Sign Up button and is required to fill in their details. After the user fills in their details they must click the Submit button. After the user enters the information, the system will verify it and create an account for them. They will then be redirected to their account login page. 
 
-2. Login - 
+2. Login 
+
 ![login](https://user-images.githubusercontent.com/55817657/147641686-70bb8a1a-8d6d-4aaf-b8f5-5fa99bca3089.png)
+
 Figure 2: Login Sequence Diagram
 
 After clicking the login button, the password and username will be validated through the database system. Once the database system finds the matching username and password,it will be verified. Login successful message will appear.
 
-3. Add to cart -
+3. Add to cart 
+
 ![add to cart](https://user-images.githubusercontent.com/55817657/147641735-01c7612c-739a-4c26-b418-fd3ceaf8248d.png)
+
 Figure 3 : Add to Cart Sequence Diagram
 
 Users can select the ice cream flavor that they want and add their ice cream to cart. At the cart the user can select the quantity that they want then can go to the payment page. Users also can cancel their order in the add to cart page.
 
-4. Payment -
+4. Payment 
+
 ![payment](https://user-images.githubusercontent.com/55817657/147641818-d96e0b01-55e8-4249-bfb6-43ffc8f9bcb7.png)
+
 Figure 4: Payment Sequence Diagram
 
 After users add their ice cream into the cart, users will go to the payment page and choose payment option either they will pay online or cash of delivery. For cash delivery, users will pay when we deliver their orders to their home. Meanwhile, for the online payment, users will enter the card details and the bank will verify their account. After the confirmation, users successfully pay for their order and wait untils it is delivered to their home.
 
-5. Delivery location - 
+5. Delivery location 
+
 ![delivery location](https://user-images.githubusercontent.com/55817657/147641899-da1f2213-56b1-4f29-998d-76d0a1601ecf.png)
+
 Figure 5: Delivery location sequence diagram
 
 In the application, after the user selecting their favorite ice cream, users are prompted to enter their location for delivery. The system will then request the user's location from the database, and the database will provide it to the system to display to the user.
