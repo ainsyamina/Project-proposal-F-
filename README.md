@@ -32,15 +32,14 @@ e) Features and functionalities of the proposed mobile application.
 
 f) Properly define the screen navigation (routing) and components (presentational and
 container) implementation with a diagram.
-![database](https://user-images.githubusercontent.com/55817657/147641093-71f62358-3f6e-43f4-bce1-641268b92942.png)
+
+![WhatsApp Image 2021-12-29 at 7 58 28 PM](https://user-images.githubusercontent.com/55817657/147659901-0e3a8c91-1773-4cbf-8bf7-4a7a2bff3f3c.jpeg)
 
 Customer: use One-to-Many relationship. The relationship is between customer and order attributes. A customer can places many order for the ice cream
 
 Order: use One-to-Many relationship. The relationship is between order and product attributes. One ice cream product can be ordered many times as the customer wants.
 
 Product: use Many-to-One relationship. The relationship is between product and admin attributes. Many ice cream products are available and connect to one admin only to manage the product.
-
-Admin: will be able to see the ice cream order and manage the order from the customer.
 
 g) A sequence diagram to represent the interaction of the proposed mobile application.
 1. Signup 
