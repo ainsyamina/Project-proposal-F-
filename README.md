@@ -1,8 +1,8 @@
 # Project-proposal-F-
 Group Member Details (Name & Matric No).
-1. Nur Ain Binti Ishak (1810052)
+1. Muhammad Afiq Bin Munir (1818931)
 2. Nurul Jannah Binti Hussain (1811252)
-3. Muhammad Afiq Bin Munir (1818931)
+3. Nur Ain Binti Ishak (1810052) 
 4. Nurul Ain Syamina binti Noorafandi (1814584)
 5. Iman Nurzawani Binti Osman (1814246)
 
