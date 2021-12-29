@@ -32,7 +32,7 @@ e) Features and functionalities of the proposed mobile application.
 f) Properly define the screen navigation (routing) and components (presentational and
 container) implementation with a diagram.
 
-![WhatsApp Image 2021-12-29 at 7 58 28 PM](https://user-images.githubusercontent.com/55817657/147659901-0e3a8c91-1773-4cbf-8bf7-4a7a2bff3f3c.jpeg)
+![WhatsApp Image 2021-12-29 at 8 45 20 PM](https://user-images.githubusercontent.com/55817657/147663721-0237b81a-2be4-4dfb-ad14-5f55b19c470b.jpeg)
 
 Customer: use One-to-Many relationship. The relationship is between customer and order attributes. A customer can places many order for the ice cream
 
